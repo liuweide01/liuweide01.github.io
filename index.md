@@ -19,18 +19,9 @@ My research interests include computer vision, machine learning and time series 
 ## News
 - **[Mar. 2023]** One paper is accepted by *IEEE Transactions on Circuits and Systems for Video Technology*.
 - **[Feb. 2023]** One paper is accepted by *2023 International Conference on Acoustics, Speech, and Signal Processing*.
-- **[Dec. 2022]** The source code for our [Bi-LSTM based Two-Stream Network for RUL](https://github.com/ruibing-jin/Bi_LSTM_TS) is released!
-- **[Nov. 2022]** One paper is accepted by *IEEE Transactions on Circuits and Systems for Video Technology*.
-- **[Oct. 2022]** 💥💥Our [PE-Net](https://ieeexplore.ieee.org/document/9849459) receives much attention and is reported by the [official JAS channel](https://mp.weixin.qq.com/s/Mua13qe4LJqt1AwZ2XHFYQ) and some famous media, such as [Tech Xplore](https://techxplore.com/news/2022-10-convolutional-neural-network-framework-life.amp), [EurekAlert!](https://www.eurekalert.org/news-releases/968147), [Cognitive Science News](https://cognitivesciencenews.com/2022/10/18/convolutional-neural-network-framework-to-predict-remaining-useful-life-in-machines/amp/), and [PR Newswire](https://www.prnewswire.com/news-releases/new-study-in-ieeecaa-journal-of-automatica-sinica-describes-convolutional-neural-network-framework-to-predict-remaining-useful-life-in-machines-301654980.html).
-- **[Oct. 2022]** The source code for our [PE-Net](https://github.com/ruibing-jin/PE-Net) is released!
-- **[Aug. 2022]** One paper is accepted by *IEEE/CAA Journal of Automatica Sinica*.
-- **[Apr. 2022]** One paper is accepted by *IEEE Transactions on Instrumentation and Measurement*.
-- **[Feb. 2022]** One paper is accepted by *Knowledge-Based Systems*
-- **[Feb. 2022]** One paper is accepted by *Pattern Recognition*
-- **[Jun. 2021]** Our team *AStarTrek* achieved the **1st place winner** for [the CVPR 2021 UG2+ Challenge Track 2.1](http://cvpr2022.ug2challenge.org/program21/leaderboard21_t2.html).
-- **[Jun. 2021]** One paper is accepted by *Journal of Biophotonics*.
-- **[Apr. 2021]** One paper is accepted by *Biomedical Optics Express*.
-- **[Oct. 2020]** One paper is accepted by *IEEE Signal Processing Letters*.
+- **[Dec. 2022]** One paper is accepted by *IEEE Transactions on Circuits and Systems for Video Technology*.
+- **[Nov. 2022]** One paper is accepted by *IEEE Transactions on Multimedia*.
+
 
 <!-- ## Selected Publications
 [comment]: <>
