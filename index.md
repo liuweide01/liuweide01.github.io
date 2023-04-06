@@ -106,11 +106,12 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 <br />
 </div>
 
+
 [comment]: <>
 <div class="paper">
-  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/cmnet.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/distilling.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
 <div class="paper">Few-shot Segmentation with Optimal Transport Matching and Message Flow
-                      <a href="https://arxiv.org/pdf/2108.08518">Paper Link</a> /  <a href="https://github.com/liuweide01/CM-Net-Few-shot-Segmentation">Github</a> 
+                      <a href="https://arxiv.org/pdf/2108.08518">Paper Link</a> /  <a href="https://github.com/liuweide01/CM-Net-Few-shot-Segmentation">Github</a>
                     </div>
                     <div class="author">
                         <strong>Weide Liu</strong>, Chi Zhang, Henghui Ding, Tzu-Yi Hung, Guosheng Lin
