@@ -3,7 +3,12 @@ layout: homepage
 ---
 
 ## About Me
-I am currently a Scientist at Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (ASTAR), Singapore. Previously, I obtained my Bachelor’s Degree from University of Electronic Science and Technology of China (UESTC) at 2014. After that, I obtained my Master degree and Ph.D degree from Nanyang Technological University (NTU), Singapore at 2016 and 2020, respectively, under the supervision of Prof. Wang Jianliang, Prof. Wen Changyun and Prof. Lin Guosheng. I also cooperated with Prof. Yuan Junsong.
+<!-- I am currently a Scientist at Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (ASTAR), Singapore. Previously, I obtained my Bachelor’s Degree from University of Electronic Science and Technology of China (UESTC) at 2014. After that, I obtained my Master degree and Ph.D degree from Nanyang Technological University (NTU), Singapore at 2016 and 2020, respectively, under the supervision of Prof. Wang Jianliang, Prof. Wen Changyun and Prof. Lin Guosheng. I also cooperated with Prof. Yuan Junsong. -->
+<br />
+Weide Liu is currently a Research Scientist at <a href="https://www.a-star.edu.sg/">Agency for Science, Technology and Research (A*STAR)</a>. Before that, he was a Research Scientist at ByteDance AI Lab in Singapore. 
+He received the Ph.D. degree from <a href="https://www.ntu.edu.sg/">Nanyang Technological Unversity</a> in 2022, advised by <a href="https://guosheng.github.io/">Prof. Lin Guosheng</a>. He received a bachelor's degree from the School of Electrical and Electronic Engineering (EEE) at <a href="https://www.ntu.edu.sg/">Nanyang Technological Unversity</a> in 2016. His research interests include computer vision, language, machine learning, federated learning, and medical image analysis. 
+If you are interested in joining/visiting or remotely collaborating with our group at Astar, please do not hesitate to drop me an email with your resume. Looking for visiting Ph.D. students under the support of <a href="https://www.csc.edu.cn/chuguo">CSC</a> or other fundings.
+<br /> 
 
 ## Research Interests
 My research interests include computer vision, machine learning and time series analysis. The specific topics which I previously researched on are listed below:
