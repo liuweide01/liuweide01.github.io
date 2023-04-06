@@ -10,15 +10,15 @@ He received the Ph.D. degree from <a href="https://www.ntu.edu.sg/">Nanyang Tech
 If you are interested in joining/visiting or remotely collaborating with our group at Astar, please do not hesitate to drop me an email with your resume. Looking for visiting Ph.D. students under the support of <a href="https://www.csc.edu.cn/chuguo">CSC</a> or other fundings.
 <br /> 
 
-## Research Interests
+<!-- ## Research Interests
 My research interests include computer vision, machine learning and time series analysis. The specific topics which I previously researched on are listed below:
 - **Computer Vision:** video object detection, object detection, point cloud
 - **Machine Learning:** weakly supervised learing, knowledge distillation
-- **Time Series Analysis:** machine remaining useful life prediciton, fault diagnosis
+- **Time Series Analysis:** machine remaining useful life prediciton, fault diagnosis -->
 
 ## News
-- **[Mar. 2023]** One paper is accepted by *IEEE Transactions on Industrial Informatics*.
-- **[Dec. 2022]** Our paper “Multi-task Self-Supervised Adaptation for Reinforcement Learning” has won **the best paper award** at The 17th IEEE Conference on Industrial Electronics and Applications 2022！
+- **[Mar. 2023]** One paper is accepted by *IEEE Transactions on Circuits and Systems for Video Technology*.
+- **[Feb. 2023]** One paper is accepted by *2023 International Conference on Acoustics, Speech, and Signal Processing*.
 - **[Dec. 2022]** The source code for our [Bi-LSTM based Two-Stream Network for RUL](https://github.com/ruibing-jin/Bi_LSTM_TS) is released!
 - **[Nov. 2022]** One paper is accepted by *IEEE Transactions on Circuits and Systems for Video Technology*.
 - **[Oct. 2022]** 💥💥Our [PE-Net](https://ieeexplore.ieee.org/document/9849459) receives much attention and is reported by the [official JAS channel](https://mp.weixin.qq.com/s/Mua13qe4LJqt1AwZ2XHFYQ) and some famous media, such as [Tech Xplore](https://techxplore.com/news/2022-10-convolutional-neural-network-framework-life.amp), [EurekAlert!](https://www.eurekalert.org/news-releases/968147), [Cognitive Science News](https://cognitivesciencenews.com/2022/10/18/convolutional-neural-network-framework-to-predict-remaining-useful-life-in-machines/amp/), and [PR Newswire](https://www.prnewswire.com/news-releases/new-study-in-ieeecaa-journal-of-automatica-sinica-describes-convolutional-neural-network-framework-to-predict-remaining-useful-life-in-machines-301654980.html).
@@ -32,7 +32,7 @@ My research interests include computer vision, machine learning and time series 
 - **[Apr. 2021]** One paper is accepted by *Biomedical Optics Express*.
 - **[Oct. 2020]** One paper is accepted by *IEEE Signal Processing Letters*.
 
-## Selected Publications
+<!-- ## Selected Publications
 [comment]: <>
 <div class="paper">
   <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/adanet.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
@@ -91,3 +91,4 @@ My research interests include computer vision, machine learning and time series 
 <em>Pattern Recognition. <strong><i style="color:#1e90ff">PR</i></strong>.</em>
 </p>
 </div>
+ -->
