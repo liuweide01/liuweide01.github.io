@@ -27,7 +27,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 ## Selected Publications
 [comment]: <>
 <div class="paper">
-  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/crnet.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/crnet.png" width="200" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
 <p><strong>CRNet: Cross-Reference Networks for Few-Shot Segmentation</strong>
 <br />
 <strong>Weide Liu</strong>, Chi Zhang, Guosheng Lin, Fayao Liu
@@ -40,7 +40,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 [comment]: <>
 <div class="paper">
-  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/video.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/video.png" width="200" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
 <div class="paper">Guided Co-Segmentation Network for Fast Video Object Segmentation
                       <a href="https://dr.ntu.edu.sg/bitstream/10356/151820/2/TCSVT_Final_v2.pdf">Paper Link</a> </div>
                     <div class="author">
@@ -53,7 +53,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 [comment]: <>
 <div class="paper">
-  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/crcnet.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/crcnet.png" width="200" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
 <div class="paper">CRCNet: Few-shot Segmentation with Cross-Reference and Region-Global Conditional Networks
                       <a href="https://link.springer.com/article/10.1007/s11263-022-01677-7">Paper Link</a>
                     </div>
@@ -67,7 +67,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 [comment]: <>
 <div class="paper">
-  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/MBMNet.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/MBMNet.png" width="200" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
 <div class="paper">Weakly Supervised Segmentation with Maximum Bipartite Graph Matching
                       <a href="https://dl.acm.org/doi/abs/10.1145/3394171.3413652">Paper Link</a> </div>
                     <div class="author">
@@ -81,7 +81,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 [comment]: <>
 <div class="paper">
-  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/split.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/split.png" width="200" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
 <div class="paper">Splitting vs. Merging: Mining Object Regions with Discrepancy and Intersection Loss for Weakly Supervised Semantic Segmentation
                       <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670664.pdf">Paper Link</a> </div>
                     <div class="author">
@@ -94,7 +94,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 [comment]: <>
 <div class="paper">
-  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/rpnet.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/rpnet.png" width="200" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
 <div class="paper">Cross-Image Region Mining with Region Prototypical Network for Weakly Supervised Segmentation
                       <a href="https://arxiv.org/pdf/2108.07413">Paper Link</a> /  <a href="https://github.com/liuweide01/RPNet-Weakly-Supervised-Segmentation">Github</a> 
                     </div>
@@ -109,7 +109,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 [comment]: <>
 <div class="paper">
-  <div class="teaser" style="float:left;width:200;margin: 5px 10px 10px 0;"><img src="images/cmnet.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/cmnet.png" width="200" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
 <div class="paper">Few-shot Segmentation with Optimal Transport Matching and Message Flow
                       <a href="https://arxiv.org/pdf/2108.08518">Paper Link</a> /  <a href="https://github.com/liuweide01/CM-Net-Few-shot-Segmentation">Github</a>
                     </div>
@@ -123,7 +123,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 [comment]: <>
 <div class="paper">
-  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/distilling.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/distilling.png" width="200" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
 <div class="paper">Distilling Knowledge from Object Classification to Aesthetics Assessment
                       <a href="https://arxiv.org/pdf/2206.00809">Paper Link</a>
                     </div>
@@ -137,7 +137,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 [comment]: <>
 <div class="paper">
-  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/Interaction.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/Interaction.png" width="200" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
 <div class="paper">Interaction-Matrix Based Personalized Image Aesthetics Assessment
                       <a href="https://ieeexplore.ieee.org/document/9817633">Paper Link</a>
                     </div>
