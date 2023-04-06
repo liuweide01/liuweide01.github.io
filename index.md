@@ -52,6 +52,35 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 </p>
 </div>
 
+[comment]: <>
+<div class="paper">
+  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/video.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+<div class="paper">CRCNet: Few-shot Segmentation with Cross-Reference and Region-Global Conditional Networks
+                      <a href="https://link.springer.com/article/10.1007/s11263-022-01677-7">Paper Link</a>
+                    </div>
+                    <div class="author">
+                        <strong>Weide Liu</strong>, Chi Zhang, Guosheng Lin, Fayao Liu
+                    </div>
+                  <div class="conf"><em>International Journal of Computer Vision(IJCV)</em></div>
+<br />
+<br />
+</p>
+</div>
+
+[comment]: <>
+<div class="paper">
+  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/MNMNet.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+<div class="paper">Weakly Supervised Segmentation with Maximum Bipartite Graph Matching
+                      <a href="https://dl.acm.org/doi/abs/10.1145/3394171.3413652">Paper Link</a> </div>
+                    <div class="author">
+                        <strong>Weide Liu</strong>, Chi Zhang, Guosheng Lin, Tzu-Yi HUNG, Chunyan Miao
+                    </div>
+                    <div class="conf"><em>Proceedings of the 28th ACM International Conference on Multimedia (28th ACM MM )</em></div>
+<br />
+<br />
+</p>
+</div>
+
 <!-- [comment]: <>
 <div class="paper">
   <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/pe-net.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
