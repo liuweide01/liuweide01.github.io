@@ -21,6 +21,13 @@ My research interests include computer vision, machine learning and time series 
 - **[Feb. 2023]** One paper is accepted by *2023 International Conference on Acoustics, Speech, and Signal Processing*.
 - **[Dec. 2022]** One paper is accepted by *IEEE Transactions on Circuits and Systems for Video Technology*.
 - **[Nov. 2022]** One paper is accepted by *IEEE Transactions on Multimedia*.
+- **[Jun. 2022]** One paper is accepted by *IEEE Transactions on Multimedia*.
+- **[Jun. 2022]** One paper is accepted by *<mark>International Journal of Computer Vision.*</mark>
+- **[Dec. 2021]** One paper is accepted by *IEEE Transactions on Multimedia*.
+- **[July. 2020]** One paper is accepted by *IEEE Transactions on Circuits and Systems for Video Technology*.
+- **[Jun. 2020]** One paper is accepted by *European Conference on Computer Vision*.
+- **[Mar. 2020]** One paper is accepted by *ACM International Conference on Multimedia *.
+- **[Dec. 2019]** One paper is accepted by *<mark>IEEE/CVF Conference on Computer Vision and Pattern Recognition*.</mark>
 
 
 <!-- ## Selected Publications
