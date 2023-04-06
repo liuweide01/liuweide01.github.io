@@ -49,12 +49,11 @@ If you are interested in joining/visiting or remotely collaborating with our gro
                     <div class="conf"><em>IEEE Transactions on Circuits and Systems for Video Technology(TCSVT)</em></div>
 <br />
 <br />
-</p>
 </div>
 
 [comment]: <>
 <div class="paper">
-  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="crcnet/video.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/crcnet.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
 <div class="paper">CRCNet: Few-shot Segmentation with Cross-Reference and Region-Global Conditional Networks
                       <a href="https://link.springer.com/article/10.1007/s11263-022-01677-7">Paper Link</a>
                     </div>
@@ -64,7 +63,6 @@ If you are interested in joining/visiting or remotely collaborating with our gro
                   <div class="conf"><em>International Journal of Computer Vision(IJCV)</em></div>
 <br />
 <br />
-</p>
 </div>
 
 [comment]: <>
@@ -78,7 +76,6 @@ If you are interested in joining/visiting or remotely collaborating with our gro
                     <div class="conf"><em>Proceedings of the 28th ACM International Conference on Multimedia (28th ACM MM )</em></div>
 <br />
 <br />
-</p>
 </div>
 
 
@@ -93,7 +90,6 @@ If you are interested in joining/visiting or remotely collaborating with our gro
                     <div class="conf"><em>European Conference on Computer Vision (ECCV 2020)</em></div>
 <br />
 <br />
-</p>
 </div>
 
 [comment]: <>
@@ -108,7 +104,6 @@ If you are interested in joining/visiting or remotely collaborating with our gro
                   <div class="conf"><em>IEEE Transactions on Multimedia(TMM)</em></div>
 <br />
 <br />
-</p>
 </div>
 
 [comment]: <>
@@ -123,7 +118,6 @@ If you are interested in joining/visiting or remotely collaborating with our gro
                   <div class="conf"><em>IEEE Transactions on Multimedia(TMM)</em></div>
 <br />
 <br />
-</p>
 </div>
 
 [comment]: <>
@@ -138,7 +132,6 @@ If you are interested in joining/visiting or remotely collaborating with our gro
                   <div class="conf"><em>IEEE Transactions on Circuits and Systems for Video Technology(TCSVT)</em></div>
 <br />
 <br />
-</p>
 </div>
 
 [comment]: <>
@@ -153,14 +146,12 @@ If you are interested in joining/visiting or remotely collaborating with our gro
                   <div class="conf"><em>IEEE Transactions on Multimedia(TMM)</em></div>
 <br />
 <br />
-</p>
 </div>
 
 
-## Activities
+<!-- ## Activities -->
 <div id="Activities">
                 <h2>Activities</h2>
-                <HR color=#F0F0F0 width="97%" SIZE=1><br>
                 <ul>
                     <li>Track Chair, IECON 2023.</li>
                     <li>Conference Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, ACCV, ICASSP, ICME, MICCAI, ICIP, etc.</li>
