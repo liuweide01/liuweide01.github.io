@@ -1,4 +1,4 @@
-# The Minimal Light Theme
+<!-- # The Minimal Light Theme
 
 [![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-academic?style=flat-square)](https://github.com/yaoyao-liu/minimal-light/blob/master/LICENSE)
 [![gem](https://img.shields.io/gem/v/minimal-light?style=flat-square)](https://rubygems.org/gems/minimal-light)
@@ -136,3 +136,6 @@ Our project uses the source code from the following repositories:
 * [pages-themes/minimal](https://github.com/pages-themes/minimal)
 
 * [orderedlist/minimal](https://github.com/orderedlist/minimal)
+ -->
+
+ ## Weide Liu's Homepage

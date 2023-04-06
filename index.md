@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## Biography
 <br />
 Weide Liu is currently a Research Scientist at <a href="https://www.a-star.edu.sg/">Agency for Science, Technology and Research (A*STAR)</a>. Before that, he was a Research Scientist at ByteDance AI Lab in Singapore. 
 He received the Ph.D. degree from <a href="https://www.ntu.edu.sg/">Nanyang Technological Unversity</a> in 2022, advised by <a href="https://guosheng.github.io/">Prof. Lin Guosheng</a>. He received a bachelor's degree from the School of Electrical and Electronic Engineering (EEE) at <a href="https://www.ntu.edu.sg/">Nanyang Technological Unversity</a> in 2016. His research interests include computer vision, language, machine learning, federated learning, and medical image analysis. 
@@ -54,7 +54,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 [comment]: <>
 <div class="paper">
-  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/video.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="crcnet/video.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
 <div class="paper">CRCNet: Few-shot Segmentation with Cross-Reference and Region-Global Conditional Networks
                       <a href="https://link.springer.com/article/10.1007/s11263-022-01677-7">Paper Link</a>
                     </div>
@@ -69,7 +69,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 [comment]: <>
 <div class="paper">
-  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/MNMNet.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/MBMNet.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
 <div class="paper">Weakly Supervised Segmentation with Maximum Bipartite Graph Matching
                       <a href="https://dl.acm.org/doi/abs/10.1145/3394171.3413652">Paper Link</a> </div>
                     <div class="author">
@@ -81,49 +81,89 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 </p>
 </div>
 
-<!-- [comment]: <>
+
+[comment]: <>
 <div class="paper">
-  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/pe-net.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
-<p><strong>Position Encoding Based Convolutional Neural Networks for Machine Remaining Useful Life Prediction</strong>
+  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/split.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+<div class="paper">Splitting vs. Merging: Mining Object Regions with Discrepancy and Intersection Loss for Weakly Supervised Semantic Segmentation
+                      <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670664.pdf">Paper Link</a> </div>
+                    <div class="author">
+                        Tianyi Zhang, Guosheng Lin, <strong>Weide Liu</strong>, Jianfei Cai, Alex Kot
+                    </div>
+                    <div class="conf"><em>European Conference on Computer Vision (ECCV 2020)</em></div>
 <br />
-<strong>Jin Ruibing</strong>, Wu Min, Wu Keyu, Gao Kaizhou, Chen Zhenghua, Li Xiaoli
 <br />
-<em>IEEE/CAA Journal of Automatica Sinica. <strong><i style="color:#1e90ff">JAS</i></strong>.</em>
 </p>
 </div>
 
 [comment]: <>
 <div class="paper">
-  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/ts_blstm.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
-<p><strong>Bi-LSTM-Based Two-Stream Network for Machine Remaining Useful Life Prediction</strong>
+  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/rpnet.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+<div class="paper">Cross-Image Region Mining with Region Prototypical Network for Weakly Supervised Segmentation
+                      <a href="https://arxiv.org/pdf/2108.07413">Paper Link</a> /  <a href="https://github.com/liuweide01/RPNet-Weakly-Supervised-Segmentation">Github</a> 
+                    </div>
+                    <div class="author">
+                        <strong>Weide Liu</strong>,  Xiangfei Kong, Tzu-Yi Hung, Guosheng Lin
+                    </div>
+                  <div class="conf"><em>IEEE Transactions on Multimedia(TMM)</em></div>
 <br />
-<strong>Ruibing Jin</strong>, Zhenghua Chen, Keyu Wu, Min Wu, Xiaoli Li, Ruqiang Yan
 <br />
-<em>IEEE Transactions on Instrumentation and Measurement. <strong><i style="color:#1e90ff">TIM</i></strong>.</em>
 </p>
 </div>
 
 [comment]: <>
 <div class="paper">
-  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/opg.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
-<p><strong>Online Active Proposal Set Generation for Weakly Supervised Object Detection</strong>
+  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/cmnet.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+<div class="paper">Few-shot Segmentation with Optimal Transport Matching and Message Flow
+                      <a href="https://arxiv.org/pdf/2108.08518">Paper Link</a> /  <a href="https://github.com/liuweide01/CM-Net-Few-shot-Segmentation">Github</a> 
+                    </div>
+                    <div class="author">
+                        <strong>Weide Liu</strong>, Chi Zhang, Henghui Ding, Tzu-Yi Hung, Guosheng Lin
+                    </div>
+                  <div class="conf"><em>IEEE Transactions on Multimedia(TMM)</em></div>
 <br />
-<strong>Ruibing Jin</strong>, Guosheng Lin, Changyun Wen
 <br />
-<em>Knowledge-Based Systems. <strong><i style="color:#1e90ff">KBS</i></strong>.</em>
-<br /> 
-<br /> 
 </p>
 </div>
 
 [comment]: <>
 <div class="paper">
-  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/ff_net.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
-<p><strong>Feature flow: In-network feature flow estimation for video object detection</strong>
+  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/distilling.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+<div class="paper">Distilling Knowledge from Object Classification to Aesthetics Assessment
+                      <a href="https://arxiv.org/pdf/2206.00809">Paper Link</a>
+                    </div>
+                    <div class="author">
+                        Jingwen Hou, Henghui Ding, Weisi Lin, <strong>Weide Liu</strong>, Yuming Fang
+                    </div>
+                  <div class="conf"><em>IEEE Transactions on Circuits and Systems for Video Technology(TCSVT)</em></div>
 <br />
-<strong>Ruibing Jin</strong>, Guosheng Lin, Changyun Wen, Jianliang Wang, Fayao Liu
 <br />
-<em>Pattern Recognition. <strong><i style="color:#1e90ff">PR</i></strong>.</em>
 </p>
 </div>
- -->
+
+[comment]: <>
+<div class="paper">
+  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/Interaction.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+<div class="paper">Interaction-Matrix Based Personalized Image Aesthetics Assessment
+                      <a href="https://ieeexplore.ieee.org/document/9817633">Paper Link</a>
+                    </div>
+                    <div class="author">
+                        Jingwen Hou, Weisi Lin, Guanghui Yue, <strong>Weide Liu</strong>, Baoquan Zhao
+                    </div>
+                  <div class="conf"><em>IEEE Transactions on Multimedia(TMM)</em></div>
+<br />
+<br />
+</p>
+</div>
+
+
+## Activities
+<div id="Activities">
+                <h2>Activities</h2>
+                <HR color=#F0F0F0 width="97%" SIZE=1><br>
+                <ul>
+                    <li>Track Chair, IECON 2023.</li>
+                    <li>Conference Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, ACCV, ICASSP, ICME, MICCAI, ICIP, etc.</li>
+                    <li>Journal Reviewer: TPAMI, IJCV, TIP, TNNLS, TMM, TCSVT, TIFS, SPL, JBHI, TETCI, PR, etc.</li>
+                </ul>
+            </div>
