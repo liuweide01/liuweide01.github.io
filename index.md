@@ -22,29 +22,29 @@ My research interests include computer vision, machine learning and time series 
 - **[Dec. 2022]** One paper is accepted by *IEEE Transactions on Circuits and Systems for Video Technology*.
 - **[Nov. 2022]** One paper is accepted by *IEEE Transactions on Multimedia*.
 - **[Jun. 2022]** One paper is accepted by *IEEE Transactions on Multimedia*.
-- **[Jun. 2022]** One paper is accepted by *<mark>International Journal of Computer Vision.*</mark>
+- **[Jun. 2022]** One paper is accepted by **International Journal of Computer Vision.**
 - **[Dec. 2021]** One paper is accepted by *IEEE Transactions on Multimedia*.
-- **[July. 2020]** One paper is accepted by *IEEE Transactions on Circuits and Systems for Video Technology*.
+- **[Jul. 2020]** One paper is accepted by *IEEE Transactions on Circuits and Systems for Video Technology*.
 - **[Jun. 2020]** One paper is accepted by *European Conference on Computer Vision*.
 - **[Mar. 2020]** One paper is accepted by *ACM International Conference on Multimedia *.
-- **[Dec. 2019]** One paper is accepted by *<mark>IEEE/CVF Conference on Computer Vision and Pattern Recognition*.</mark>
+- **[Dec. 2019]** One paper is accepted by **IEEE/CVF Conference on Computer Vision and Pattern Recognition.**
 
 
-<!-- ## Selected Publications
+## Selected Publications
 [comment]: <>
 <div class="paper">
-  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/adanet.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
-<p><strong>An adaptive and dynamical neural network for machine remaining useful life prediction</strong>
+  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/crnet.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+<p><strong>CRNet: Cross-Reference Networks for Few-Shot Segmentation</strong>
 <br />
-<strong>Ruibing Jin</strong>, Duo Zhou, Min Wu, Xiaoli Li, Zhenghua Chen
+<strong>Weide Liu</strong>, Chi Zhang, Guosheng Lin, Fayao Liu
 <br />
-<em>IEEE Transactions on Industrial Informatics. <strong><i style="color:#1e90ff">TII</i></strong>.</em>
+<em>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. <strong><i style="color:#1e90ff">CVPR</i></strong>.</em>
 <br />
 <br />
 </p>
 </div>
 
-[comment]: <>
+<!-- [comment]: <>
 <div class="paper">
   <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/pe-net.png" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
 <p><strong>Position Encoding Based Convolutional Neural Networks for Machine Remaining Useful Life Prediction</strong>
