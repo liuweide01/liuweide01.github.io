@@ -12,18 +12,19 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 
 ## News
+- **[Jul. 2023]** One paper is accepted by ***IEEE Conference on International Conference on Computer Vision (ICCV)***.
 - **[Apr. 2023]** One paper is accepted by *IEEE Journal of Biomedical and Health Informatics*.
 - **[Mar. 2023]** One paper is accepted by *IEEE Transactions on Circuits and Systems for Video Technology*.
 - **[Feb. 2023]** One paper is accepted by *2023 International Conference on Acoustics, Speech, and Signal Processing*.
 - **[Dec. 2022]** One paper is accepted by *IEEE Transactions on Circuits and Systems for Video Technology*.
 - **[Nov. 2022]** One paper is accepted by *IEEE Transactions on Multimedia*.
 - **[Jun. 2022]** One paper is accepted by *IEEE Transactions on Multimedia*.
-- **[Jun. 2022]** One paper is accepted by ****International Journal of Computer Vision.****
+- **[Jun. 2022]** One paper is accepted by ***International Journal of Computer Vision.***
 - **[Dec. 2021]** One paper is accepted by *IEEE Transactions on Multimedia*.
 - **[Jul. 2020]** One paper is accepted by *IEEE Transactions on Circuits and Systems for Video Technology*.
-- **[Jun. 2020]** One paper is accepted by ****European Conference on Computer Vision****.
+- **[Jun. 2020]** One paper is accepted by ***European Conference on Computer Vision***.
 - **[Mar. 2020]** One paper is accepted by *ACM International Conference on Multimedia*.
-- **[Dec. 2019]** One paper is accepted by ****IEEE/CVF Conference on Computer Vision and Pattern Recognition****.
+- **[Dec. 2019]** One paper is accepted by ***IEEE/CVF Conference on Computer Vision and Pattern Recognition***.
 
 
 ## Selected Publications
