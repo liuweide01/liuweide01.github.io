@@ -12,19 +12,20 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 
 ## News
-- **[Jul. 2023]** One paper is accepted by ***IEEE Conference on International Conference on Computer Vision (ICCV)***.
-- **[Apr. 2023]** One paper is accepted by *IEEE Journal of Biomedical and Health Informatics*.
-- **[Mar. 2023]** One paper is accepted by *IEEE Transactions on Circuits and Systems for Video Technology*.
-- **[Feb. 2023]** One paper is accepted by *2023 International Conference on Acoustics, Speech, and Signal Processing*.
-- **[Dec. 2022]** One paper is accepted by *IEEE Transactions on Circuits and Systems for Video Technology*.
-- **[Nov. 2022]** One paper is accepted by *IEEE Transactions on Multimedia*.
-- **[Jun. 2022]** One paper is accepted by *IEEE Transactions on Multimedia*.
-- **[Jun. 2022]** One paper is accepted by ***International Journal of Computer Vision (IJCV).***
-- **[Dec. 2021]** One paper is accepted by *IEEE Transactions on Multimedia*.
-- **[Jul. 2020]** One paper is accepted by *IEEE Transactions on Circuits and Systems for Video Technology*.
-- **[Jun. 2020]** One paper is accepted by ***European Conference on Computer Vision***.
-- **[Mar. 2020]** One paper is accepted by *ACM International Conference on Multimedia*.
-- **[Dec. 2019]** One paper is accepted by ***IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)***.
+- **[Jul. 2023]** One paper is accepted by ***ICCV 2023***.
+- **[Apr. 2023]** One paper is accepted by *IEEE JBHI*.
+- **[Mar. 2023]** One paper is accepted by *IEEE TCSVT*.
+- **[Feb. 2023]** One paper is accepted by *ICASSP 2023*.
+- **[Dec. 2022]** One paper is accepted by *IEEE TCSVT*.
+- **[Nov. 2022]** One paper is accepted by *IEEE TMM*.
+- **[Jun. 2022]** One paper is accepted by *IEEE TMM*.
+- **[Jun. 2022]** One paper is accepted by ***IJCV***.
+- **[Dec. 2021]** One paper is accepted by *IEEE TMM*.
+- **[Jul. 2020]** One paper is accepted by *IEEE TCSVT*.
+- **[Jun. 2020]** One paper is accepted by ***ECCV 2020***.
+- **[Mar. 2020]** One paper is accepted by *ACM MM 2020*.
+- **[Dec. 2019]** One paper is accepted by ***CVPR 2020***.
+
 
 
 ## Selected Publications
