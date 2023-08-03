@@ -12,6 +12,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 
 ## News
+- **[Aug. 2023]** One paper is accepted by *IEEE TIP*.
 - **[Jul. 2023]** One paper is accepted by ***ICCV 2023***.
 - **[Apr. 2023]** One paper is accepted by *IEEE JBHI*.
 - **[Mar. 2023]** One paper is accepted by *IEEE TCSVT*.
