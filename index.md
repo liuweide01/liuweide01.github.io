@@ -155,6 +155,21 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 </div>
 
 
+[comment]: <>
+<div class="paper">
+  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/ELFNet.png" width="180" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+<div class="paper">ELFNet: Evidential Local-global Fusion for Stereo Matching
+                      <a href="https://arxiv.org/pdf/2308.00728">Paper Link</a> /  <a href="https://github.com/jimmy19991222/ELFNet/tree/main">Github</a> 
+                    </div>
+                    <div class="author">
+                        Jieming Lou, <strong>Weide Liu</strong>, Zhuo Chen, Fayao Liu, Jun Cheng
+                    </div>
+                  <div class="conf"><em>IEEE Transactions on Multimedia(TMM)</em></div>
+<br />
+<br />
+</div>
+
+
 <!-- ## Activities -->
 <div id="Activities">
                 <h2>Activities</h2>
