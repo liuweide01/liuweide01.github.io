@@ -164,7 +164,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
                     <div class="author">
                         Jieming Lou, <strong>Weide Liu</strong>, Zhuo Chen, Fayao Liu, Jun Cheng
                     </div>
-                  <div class="conf"><em>IEEE Transactions on Multimedia(TMM)</em></div>
+                  <div class="conf"><em>IEEE International Conference on Computer Vision(ICCV)</em></div>
 <br />
 <br />
 </div>
