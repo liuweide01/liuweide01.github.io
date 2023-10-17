@@ -12,6 +12,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 
 ## News
+- **[Oct. 2023]** One paper is accepted by ***IJCV***. 
 - **[Sep. 2023]** One paper about long-tailed recognition accepted by *Pattern Recognition*.
 - **[Aug. 2023]** One paper is accepted by *IEEE TIP*.
 - **[Jul. 2023]** One paper about depth estimation is accepted by ***ICCV 2023***.
