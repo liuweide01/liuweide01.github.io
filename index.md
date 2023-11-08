@@ -181,7 +181,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
                       <a href="https://link.springer.com/article/10.1007/s11263-023-01939-y">Paper Link</a> /  <a href="https://github.com/liuweide01/HBNC">Github</a> 
                     </div>
                     <div class="author">
-                        Weide Liu, Zhonghua Wu, Yang Zhao, Yuming Fang, Chuan-Sheng Foo, Jun Cheng, Guosheng Lin
+                        <strong>Weide Liu</strong>, Zhonghua Wu, Yang Zhao, Yuming Fang, Chuan-Sheng Foo, Jun Cheng, Guosheng Lin
                     </div>
                   <div class="conf"><em> International Journal of Computer Vision (IJCV)</em></div>
 <br />
