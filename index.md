@@ -12,8 +12,8 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 
 ## News
-- **[Oct. 2023]** One paper is accepted by ***IJCV***. 
-- **[Sep. 2023]** One paper about long-tailed recognition accepted by *Pattern Recognition*.
+- **[Oct. 2023]** One paper about few-shot learning is accepted by ***IJCV***. 
+- **[Sep. 2023]** One paper about long-tailed recognition is accepted by *Pattern Recognition*.
 - **[Aug. 2023]** One paper is accepted by *IEEE TIP*.
 - **[Jul. 2023]** One paper about depth estimation is accepted by ***ICCV 2023***.
 - **[Apr. 2023]** One paper is accepted by *IEEE JBHI*.
@@ -170,6 +170,24 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 <br />
 <br />
 </div>
+
+
+
+
+[comment]: <>
+<div class="paper">
+  <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/Harmonizing_Few.JPG" width="180" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
+<div class="paper">Harmonizing Base and Novel Classes: A Class-Contrastive Approach for Generalized Few-Shot Segmentation
+                      <a href="https://link.springer.com/article/10.1007/s11263-023-01939-y">Paper Link</a> /  <a href="https://github.com/liuweide01/HBNC">Github</a> 
+                    </div>
+                    <div class="author">
+                        Weide Liu, Zhonghua Wu, Yang Zhao, Yuming Fang, Chuan-Sheng Foo, Jun Cheng, Guosheng Lin
+                    </div>
+                  <div class="conf"><em> International Journal of Computer Vision (IJCV)</em></div>
+<br />
+<br />
+</div>
+
 
 
 <!-- ## Activities -->
