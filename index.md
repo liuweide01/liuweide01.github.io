@@ -12,7 +12,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 
 ## News
-- **[Dec. 2023]** One paper is accepted by *AAAI*. 
+- **[Dec. 2023]** Several papers accepted, 1 *AAAI*, 1 IEEE *JBHI*.
 - **[Oct. 2023]** One paper about few-shot learning is accepted by ***IJCV***. 
 - **[Sep. 2023]** One paper about long-tailed recognition is accepted by *Pattern Recognition*.
 - **[Aug. 2023]** One paper is accepted by *IEEE TIP*.
