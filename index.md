@@ -12,6 +12,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 
 ## News
+- **[Feb. 2024]** One paper about stereo matching is accepted by ***CVPR 2024***.
 - **[Jan. 2024]** Invited as Special Session Chair of ICIP
 - **[Dec. 2023]** Several papers accepted, 1 *AAAI*, 1 IEEE *JBHI*.
 - **[Oct. 2023]** One paper about few-shot learning is accepted by ***IJCV***. 
