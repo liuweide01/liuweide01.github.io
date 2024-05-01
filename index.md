@@ -14,13 +14,14 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 ## News
 - **[May. 2024]** One paper accepted by *TIV*.
 - **[Feb. 2024]** One paper about stereo matching is accepted by ***CVPR 2024***.
-- **[Jan. 2024]** Invited as Special Session Chair of ICIP
+- **[Jan. 2024]** Invited as Special Session Chair for IEEE ICIP
 - **[Dec. 2023]** Several papers accepted, 1 *AAAI*, 1 IEEE *JBHI*.
 - **[Oct. 2023]** One paper about few-shot learning is accepted by ***IJCV***. 
 - **[Sep. 2023]** One paper about long-tailed recognition is accepted by *Pattern Recognition*.
 - **[Aug. 2023]** One paper is accepted by *IEEE TIP*.
 - **[Jul. 2023]** One paper about depth estimation is accepted by ***ICCV 2023***.
 - **[May. 2023]** One paper is accepted by *IEEE ICIEA*.
+- **[May. 2023]** Invited as Track Chair for IEEE IECON 2023.
 - **[Apr. 2023]** One paper is accepted by *IEEE JBHI*.
 - **[Mar. 2023]** One paper is accepted by *IEEE TCSVT*.
 - **[Feb. 2023]** One paper is accepted by *ICASSP 2023*.
