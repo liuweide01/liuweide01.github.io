@@ -14,7 +14,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 ## News
 - **[Jun. 2024]** One paper about federated time-series learning was accepted by *IEEE TII*.
 - **[Jun. 2024]** One paper about federated time-series learning was accepted by *IEEE TMM*.
-- **[May. 2024]** One papers were accepted by ICIP.
+- **[May. 2024]** One paper was accepted by ICIP.
 - **[May. 2024]** Two papers were accepted by EMBC.
 - **[May. 2024]** One paper accepted by *TIV*.
 - **[Feb. 2024]** One paper about stereo matching is accepted by ***CVPR 2024***.
