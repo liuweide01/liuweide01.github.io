@@ -12,6 +12,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 
 ## News
+- **[Sep. 2024]** One paper was accepted by *IEEE TMM*.
 - **[Aug. 2024]** One paper was accepted by *IEEE TCSVT*.
 - **[Jun. 2024]** One paper about federated time-series learning was accepted by *IEEE TII*.
 - **[Jun. 2024]** One paper about federated time-series learning was accepted by *IEEE TMM*.
