@@ -43,7 +43,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 
 
-## Selected Publications
+## Selected Publications  [Link](https://liuweide01.github.io/pub)
 [comment]: <>
 <div class="paper">
   <div class="teaser" style="float:left;width:30%;margin: 5px 10px 10px 0;"><img src="images/crnet.png" width="180" height="110" style="box-shadow:2px 2px 6px #888888"/></div>
