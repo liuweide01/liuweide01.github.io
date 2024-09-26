@@ -2,7 +2,7 @@
 
 ---
 
-## <center><span style="color: #FF69B4;">Learning with Less Annotation</span></center>
+## <center><span style="color: #6A5ACD;">Learning with Less Annotation</span></center>
 
 - **Weide Liu**, Chi Zhang, Guosheng Lin, Fayao Liu  
   *"CRCNet: Few-shot Segmentation with Cross-Reference and Region-Global Condition Networks"*  
@@ -38,14 +38,14 @@
 
 ---
 
-## <center><span style="color: #FF69B4;">AI for Biomedical Science</span></center>
+## <center><span style="color: #6A5ACD;">AI for Biomedical Science</span></center>
 
 - **Weide Liu**, Camilo Calixto, Simon K. Warfield, Davood Karimi  
   *"Streamline tractography of the fetal brain in utero with machine learning"*
 
 ---
 
-## <center><span style="color: #FF69B4;">AI for Medical Image</span></center>
+## <center><span style="color: #6A5ACD;">AI for Medical Image</span></center>
 
 - Guanghui Yue, Di Cheng, Tianwei Zhou, Jingwen Hou, **Weide Liu**, Long Xu, Tianfu Wang, Jun Chen  
   *"Perceptual Quality Assessment of Enhanced Colonoscopy Images: A Benchmark Dataset and an Objective Method"*  
@@ -73,7 +73,7 @@
 
 ---
 
-## <center><span style="color: #FF69B4;">Others</span></center>
+## <center><span style="color: #6A5ACD;">Others</span></center>
 
 - **Weide Liu**, Guosheng Lin, Tianyi Zhang, Zichuan Liu  
   *"Guided Co-Segmentation Network for Fast Video Object Segmentation"*  
