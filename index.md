@@ -12,35 +12,36 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 
 ## News
-- **[Sep. 2024]** Two papers have been accepted by Neurocomputing and WACV.
+- **[Oct. 2024]** Two papers have been accepted by Neurocomputing and WACV.
 - **[Sep. 2024]** One paper was accepted by *IEEE TMM*.
 - **[Aug. 2024]** One paper was accepted by *IEEE TCSVT*.
 - **[Jun. 2024]** One paper about federated time-series learning was accepted by *IEEE TII*.
 - **[Jun. 2024]** One paper about federated time-series learning was accepted by *IEEE TMM*.
 - **[May. 2024]** One paper was accepted by ICIP.
 - **[May. 2024]** Two papers were accepted by EMBC.
-- **[May. 2024]** One paper accepted by *TIV*.
-- **[Feb. 2024]** One paper about stereo matching is accepted by ***CVPR 2024***.
-- **[Jan. 2024]** Invited as Special Session Chair for IEEE ICIP
-- **[Dec. 2023]** Several papers accepted, 1 *AAAI*, 1 IEEE *JBHI*.
-- **[Oct. 2023]** One paper about few-shot learning is accepted by ***IJCV***. 
-- **[Sep. 2023]** One paper about long-tailed recognition is accepted by *Pattern Recognition*.
-- **[Aug. 2023]** One paper is accepted by *IEEE TIP*.
-- **[Jul. 2023]** One paper about depth estimation is accepted by ***ICCV 2023***.
-- **[May. 2023]** One paper is accepted by *IEEE ICIEA*.
+- **[May. 2024]** One paper was accepted by *TIV*.
+- **[Feb. 2024]** One paper about stereo matching was accepted by ***CVPR 2024***.
+- **[Jan. 2024]** Invited as Special Session Chair for IEEE ICIP.
+- **[Dec. 2023]** Several papers were accepted, 1 *AAAI*, 1 IEEE *JBHI*.
+- **[Oct. 2023]** One paper about few-shot learning was accepted by ***IJCV***.
+- **[Sep. 2023]** One paper about long-tailed recognition was accepted by *Pattern Recognition*.
+- **[Aug. 2023]** One paper was accepted by *IEEE TIP*.
+- **[Jul. 2023]** One paper about depth estimation was accepted by ***ICCV 2023***.
+- **[May. 2023]** One paper was accepted by *IEEE ICIEA*.
 - **[May. 2023]** Invited as Track Chair for IEEE IECON 2023.
-- **[Apr. 2023]** One paper is accepted by *IEEE JBHI*.
-- **[Mar. 2023]** One paper is accepted by *IEEE TCSVT*.
-- **[Feb. 2023]** One paper is accepted by *ICASSP 2023*.
-- **[Dec. 2022]** One paper is accepted by *IEEE TCSVT*.
-- **[Nov. 2022]** One paper is accepted by *IEEE TMM*.
-- **[Jun. 2022]** One paper is accepted by *IEEE TMM*.
-- **[Jun. 2022]** One paper is accepted by ***IJCV***.
-- **[Dec. 2021]** One paper is accepted by *IEEE TMM*.
-- **[Jul. 2020]** One paper is accepted by *IEEE TCSVT*.
-- **[Jun. 2020]** One paper is accepted by ***ECCV 2020***.
-- **[Mar. 2020]** One paper is accepted by *ACM MM 2020*.
-- **[Dec. 2019]** One paper is accepted by ***CVPR 2020***.
+- **[Apr. 2023]** One paper was accepted by *IEEE JBHI*.
+- **[Mar. 2023]** One paper was accepted by *IEEE TCSVT*.
+- **[Feb. 2023]** One paper was accepted by *ICASSP 2023*.
+- **[Dec. 2022]** One paper was accepted by *IEEE TCSVT*.
+- **[Nov. 2022]** One paper was accepted by *IEEE TMM*.
+- **[Jun. 2022]** One paper was accepted by *IEEE TMM*.
+- **[Jun. 2022]** One paper was accepted by ***IJCV***.
+- **[Dec. 2021]** One paper was accepted by *IEEE TMM*.
+- **[Jul. 2020]** One paper was accepted by *IEEE TCSVT*.
+- **[Jun. 2020]** One paper was accepted by ***ECCV 2020***.
+- **[Mar. 2020]** One paper was accepted by *ACM MM 2020*.
+- **[Dec. 2019]** One paper was accepted by ***CVPR 2020***.
+
 
 
 
