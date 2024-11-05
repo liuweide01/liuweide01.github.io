@@ -15,6 +15,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 - **[Oct. 2024]** Invited as DAAD AInet Fellow.
 - **[Oct. 2024]** Two papers have been accepted by Neurocomputing and WACV.
 - **[Sep. 2024]** One paper was accepted by *IEEE TMM*.
+- **[Aug. 2024]** Received the **Best Paper Award** at the IJCAI Workshop.
 - **[Aug. 2024]** One paper was accepted by *IEEE TCSVT*.
 - **[Jun. 2024]** One paper about federated time-series learning was accepted by *IEEE TII*.
 - **[Jun. 2024]** One paper about federated time-series learning was accepted by *IEEE TMM*.
