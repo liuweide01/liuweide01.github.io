@@ -12,6 +12,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 
 ## News
+- **[Nov. 2024]** One paper was accepted by *IEEE TCSVT*.
 - **[Nov. 2024]** One paper was accepted by TMLR.
 - **[Oct. 2024]** Invited as DAAD AInet Fellow.
 - **[Oct. 2024]** Two papers have been accepted by Neurocomputing and WACV.
