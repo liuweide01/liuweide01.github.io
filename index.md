@@ -4,9 +4,9 @@ layout: homepage
 
 ## Biography
 <br />
-Weide Liu is currently a Research Fellow at <a href="https://hms.harvard.edu/">Harvard Medical School, Harvard University</a>. Before that, he was a Research Scientist at A*Star and ByteDance AI Lab in Singapore. 
-Weide received his Ph.D. from <a href="https://www.ntu.edu.sg/">Nanyang Technological Unversity</a>, and he also earned a Bachelor's degree from the university's School of Electrical and Electronic Engineering (EEE). 
-His research interests include computer vision, language, machine learning, federated learning, and medical image analysis. 
+Weide Liu is currently a Research Fellow at <a href="https://hms.harvard.edu/">Harvard Medical School, Harvard University</a>. Before that, he was a Research Scientist at A*STAR and ByteDance AI Lab in Singapore. 
+Weide received his Ph.D. and Bachelor's degree from <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a>. 
+His research interests include computer vision, language, machine learning, and medical image analysis. 
 If you are interested in joining/visiting or remotely collaborating with our group at Harvard Medical School, please do not hesitate to drop me an email with your resume. 
 <br />
 
