@@ -12,9 +12,11 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 
 ## News
+- **[Nov. 2024]** Invited as Special ***Session Chair*** for IEEE ICME.
 - **[Nov. 2024]** One paper about Retinal Image Quality Assessment was accepted by *IEEE TMI*.
 - **[Nov. 2024]** One paper was accepted by *IEEE TCSVT*.
 - **[Nov. 2024]** One paper was accepted by TMLR.
+- **[2024]** Invited as ***Associate Editor*** for Signal, Image and Video Processing.
 - **[Oct. 2024]** Invited as DAAD AInet Fellow.
 - **[Oct. 2024]** Two papers have been accepted by Neurocomputing and WACV.
 - **[Sep. 2024]** One paper was accepted by *IEEE TMM*.
@@ -26,14 +28,14 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 - **[May. 2024]** Two papers were accepted by EMBC.
 - **[May. 2024]** One paper was accepted by *TIV*.
 - **[Feb. 2024]** One paper about stereo matching was accepted by ***CVPR 2024***.
-- **[Jan. 2024]** Invited as Special Session Chair for IEEE ICIP.
+- **[Jan. 2024]** Invited as Special ***Session Chair*** for IEEE ICIP.
 - **[Dec. 2023]** Several papers were accepted, 1 *AAAI*, 1 IEEE *JBHI*.
 - **[Oct. 2023]** One paper about few-shot learning was accepted by ***IJCV***.
 - **[Sep. 2023]** One paper about long-tailed recognition was accepted by *Pattern Recognition*.
 - **[Aug. 2023]** One paper was accepted by *IEEE TIP*.
 - **[Jul. 2023]** One paper about depth estimation was accepted by ***ICCV 2023***.
 - **[May. 2023]** One paper was accepted by *IEEE ICIEA*.
-- **[May. 2023]** Invited as Track Chair for IEEE IECON 2023.
+- **[May. 2023]** Invited as **Track Chair** for IEEE IECON 2023.
 - **[Apr. 2023]** One paper was accepted by *IEEE JBHI*.
 - **[Mar. 2023]** One paper was accepted by *IEEE TCSVT*.
 - **[Feb. 2023]** One paper was accepted by *ICASSP 2023*.
