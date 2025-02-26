@@ -13,6 +13,8 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 ## News
 <!-- - **[Dec. 2024]** One paper was accepted by *IEEE TIM*. -->
+- **[Feb. 2024]** Two papers were accepted by ***CVPR 2024***.
+- **[Feb. 2024]** One paper was accepted by ***IEEE TIP***.
 - **[Nov. 2024]** Invited as Special ***Session Chair*** for IEEE ICME.
 - **[Nov. 2024]** One paper about Retinal Image Quality Assessment was accepted by *IEEE TMI*.
 - **[Nov. 2024]** One paper was accepted by *IEEE TCSVT*.
