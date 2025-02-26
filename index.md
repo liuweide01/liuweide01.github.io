@@ -219,6 +219,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
                 <h2>Services</h2>
                 <ul><li>Associate Editor for Signal, Image and Video Processing, 2024 - present.</li>
                     <li>Track Chair: IECON 2023.</li>
+                  <li>Area Chair: ICME 2024, ICIP 2025.</li>
                     <li>Conference Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, ACCV, ICASSP, ICME, MICCAI, ICIP, etc.</li>
                     <li>Journal Reviewer: TPAMI, IJCV, TIP, TNNLS, TMM, TCSVT, TIFS, SPL, JBHI, TETCI, PR, etc.</li>
                 </ul>
