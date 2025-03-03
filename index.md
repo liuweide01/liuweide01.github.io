@@ -12,6 +12,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 
 ## News
+<!-- - **[Feb. 2025]** One paper was accepted by *Medical Physics*. -->
 <!-- - **[Dec. 2024]** One paper was accepted by *IEEE TIM*. -->
 - **[Feb. 2025]** Two papers were accepted by ***CVPR 2025***.
 - **[Feb. 2025]** One paper was accepted by ***IEEE TIP***.
