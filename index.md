@@ -16,11 +16,12 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 <!-- - **[Feb. 2025]** One paper was accepted by *TOMM*. -->
 <!-- - **[Feb. 2025]** One paper was accepted by *Medical Physics*. -->
 <!-- - **[Dec. 2024]** One paper was accepted by *IEEE TIM*. -->
+- **[Nov. 2025]** One paper was accepted by *AAAI*.
 - **[May. 2025]** One paper was accepted by *IEEE TMM*.
 - **[2025]** Invited as ***Associate Editor*** for Journal of Visual Communication and Image Representation
 - **[Mar. 2025]** One papers was accepted by ***Imaging Neuroscience***.
 - **[Mar. 2025]** One papers was accepted by ***NeuroImage***.
-- **[Mar. 2025]** Several papers were accepted, including *TOMM*,*Medical Physics* ,*IEEE TIM* and *2 Neurocomputing*.
+- **[Mar. 2025]** Several papers were accepted, including *TOMM*,*Medical Physics* ,*IEEE TIM* and *Neurocomputing*.
 - **[Feb. 2025]** Two papers were accepted by ***CVPR 2025***.
 - **[Feb. 2025]** One paper was accepted by ***IEEE TIP***.
 - **[Nov. 2024]** Invited as Special ***Session Chair*** for IEEE ICME.
