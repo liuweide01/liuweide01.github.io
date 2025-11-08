@@ -16,7 +16,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 <!-- - **[Feb. 2025]** One paper was accepted by *TOMM*. -->
 <!-- - **[Feb. 2025]** One paper was accepted by *Medical Physics*. -->
 <!-- - **[Dec. 2024]** One paper was accepted by *IEEE TIM*. -->
-- **[Nov. 2025]** One paper was accepted by *AAAI*.
+- **[Nov. 2025]** One paper was accepted by **AAAI**.
 - **[May. 2025]** One paper was accepted by *IEEE TMM*.
 - **[2025]** Invited as ***Associate Editor*** for Journal of Visual Communication and Image Representation
 - **[Mar. 2025]** One papers was accepted by ***Imaging Neuroscience***.
