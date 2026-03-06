@@ -16,6 +16,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 <!-- - **[Feb. 2025]** One paper was accepted by *TOMM*. -->
 <!-- - **[Feb. 2025]** One paper was accepted by *Medical Physics*. -->
 <!-- - **[Dec. 2024]** One paper was accepted by *IEEE TIM*. -->
+- **[Mar. 2026]** One paper was accepted by **IEEE TASE**.
 - **[Mar. 2026]** One paper was accepted by **IEEE TII**.
 - **[Feb. 2026]** One paper was accepted by ***International Journal of Computer Vision(IJCV)***.
 - **[Nov. 2025]** One paper was accepted by **AAAI**.
