@@ -12,7 +12,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 
 ## News
-
+- **[May. 2025]** One paper was accepted by ***ACM COMPUTING SURVEYS***.
 <!-- - **[Feb. 2025]** One paper was accepted by *TOMM*. -->
 <!-- - **[Feb. 2025]** One paper was accepted by *Medical Physics*. -->
 <!-- - **[Dec. 2024]** One paper was accepted by *IEEE TIM*. -->
