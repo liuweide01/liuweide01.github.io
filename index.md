@@ -15,6 +15,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 - **[May. 2026]** One paper was accepted by ***ACM COMPUTING SURVEYS***.
 - **[May. 2026]** One paper was accepted by ***TIP***.
 - **[May. 2026]** Two papers were accepted by ***ICML 2026***.
+- **[May. 2026]** Invited as ***Area Chair*** for BMVC 2026.
 - **[May. 2026]** One paper was accepted by ***WWW 2026***.
 - **[Apr. 2026]** One paper was accepted by Pattern Recognition.
 - **[Mar. 2026]** One paper was accepted by **IEEE TASE**.
