@@ -14,11 +14,13 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 ## News
 - **[July. 2026]** Invited as ***Senior Program Committee*** for AAAI 2027.
 - **[Jun. 2026]** One paper was accepted by JBHI.
+- **[May. 2026]** Our paper received the ***Best Paper Award*** at the TML Workshop @ WWW 2026.
 - **[May. 2026]** One paper was accepted by ***ACM COMPUTING SURVEYS***.
 - **[May. 2026]** One paper was accepted by ***TIP***.
 - **[May. 2026]** Two papers were accepted by ***ICML 2026***.
 - **[May. 2026]** Invited as ***Area Chair*** for BMVC 2026.
 - **[May. 2026]** One paper was accepted by ***WWW 2026***.
+- **[May. 2026]** Our paper received the ***Best Paper Award*** at the ICAIS&ISAS 2026.
 - **[Apr. 2026]** One paper was accepted by Pattern Recognition.
 - **[Mar. 2026]** One paper was accepted by **IEEE TASE**.
 - **[Mar. 2026]** One paper was accepted by **IEEE TII**.
