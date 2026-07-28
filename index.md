@@ -12,6 +12,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 
 ## News
+- **[May. 2026]** One paper was accepted by ***Journal of Energy Storage***.
 - **[July. 2026]** Invited as ***Senior Program Committee*** for AAAI 2027.
 - **[Jun. 2026]** One paper was accepted by JBHI.
 - **[May. 2026]** Our paper received the ***Best Paper Award*** at the TML Workshop @ WWW 2026.
