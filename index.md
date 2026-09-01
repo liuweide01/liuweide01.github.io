@@ -12,6 +12,7 @@ If you are interested in joining/visiting or remotely collaborating with our gro
 
 
 ## News
+- **[Sep. 2026]** One paper was accepted by ***TIP***.
 - **[2026]** Invited as ***Associate Editor*** for JBHI.
 - **[May. 2026]** One paper was accepted by Journal of Energy Storage.
 - **[July. 2026]** Invited as ***Senior Program Committee*** for AAAI 2027.
